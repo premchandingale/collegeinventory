@@ -1,0 +1,25 @@
+
+
+                body{
+                        background-image:url(myimage3.jpeg);
+                        background-size: cover;
+                        height: auto;
+                        background-attachment: fixed;
+                }
+
+                .content{
+                        background: white;
+                        width: 100%;
+                        padding: 50px;
+                        margin: 100px auto;
+                        font-family: calibri;
+                        border-radius: 10px;
+                        opacity: 0.9;
+                }
+
+                p{
+                        font-size: 25px;
+                        color: black;
+                }
+
+
